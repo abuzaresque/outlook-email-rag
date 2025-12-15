@@ -1,0 +1,6 @@
+*.mp4
+*.rar
+
+.env
+vector_store/
+__pycache__/
