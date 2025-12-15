@@ -78,6 +78,8 @@ This application uses a Microsoft Graph **access token** to fetch emails.
 8. Paste the token into the Streamlit sidebar
 
 > ⚠️ Paste only the raw token — do NOT include the word `Bearer`.
+>
+
 > ℹ️ Graph Explorer tokens expire after a short time (usually ~1 hour).  
 > If you receive a 403 error, generate and paste a fresh token.
 
